@@ -10,5 +10,6 @@ public class GtiTest {
         System.out.println("hello-git");
         System.out.println("hot-fix");
         System.out.println("master-test");
+        System.out.println("hot-fix-test");
     }
 }
